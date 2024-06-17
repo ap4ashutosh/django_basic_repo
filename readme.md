@@ -2,11 +2,10 @@
 
 ## creating the virtual environment
 
-Here in this project I have used   
-->Python 3.11   
--> django 5   
+Here in this project I have used  
+->Python 3.11  
+-> django 5  
 The project gives a basic overview of using django. In this project I have created a blogpost application using django.
-The credit of the tutorial goes to corey schafer on youtube \
 
 The virtual environment creation command goes like
 
